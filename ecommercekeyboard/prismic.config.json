@@ -1,0 +1,9 @@
+{
+  "repositoryName": "ecommercekeyboard",
+  "routes": [
+    {
+      "type": "homepage",
+      "path": "/"
+    }
+  ]
+}
